@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(94, 45, 226);
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+}
+.badge.bg-secondary {
+    background-color: gray;
+    color: white;
+    padding: 10px 15px;
+}
+.container-fluid {
+    background-color: rgb(54, 2, 97);
+    margin: 5px;
+}
+.row {
+    background-color: bisque;
+    margin: 5px;
+}
+.contenedor2
+{
+    background-color: rgba(148, 226, 245, 0.884);
+    margin: 5px;
+    text-align: center;
+}
+h2
+{
+    color: black;
+    font-family: sans-serif
+}
